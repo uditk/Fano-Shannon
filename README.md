@@ -27,4 +27,13 @@
 
   * python ShannonFano.py [e|d] [path]InputFileName [path]OutputFileName
 
+### Usage
 
+ 1. Encode
+
+  * python ShannonFano.py e original.pgm binary
+
+
+ 2. Decode
+
+  * python ShannonFano.py d binary decompress.pgm
